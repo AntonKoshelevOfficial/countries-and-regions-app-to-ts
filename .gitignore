@@ -25,3 +25,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /.idea/material_theme_project_new.xml
+package-lock.json
+yarn.lock
+/yarn.lock
